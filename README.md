@@ -1,8 +1,8 @@
 # 🏖️ Amiel Nava
 
-**`👨🏽‍💻 Web Developer`**
+**`👨🏽‍💻 Software Developer`**
 
-Hi! My name is Amiel, and I consider myself a web developer passionate about developing with ASP.NET Web APIs and React. I am currently looking at ASP.NET MVC and Angular. I enjoy working on either stack or both if needed. In my spare time, I enjoy exploring restaurants and coffee shops in San Diego. I also explore hiking spots, such as my favorite one, Cuyamaca Peak.
+Hi! My name is Amiel, and I am a Software Developer passionate about developing with ASP.NET Web APIs and React. I am currently looking at ASP.NET MVC and Angular. I enjoy working on either stack or both if needed. In my spare time, I enjoy exploring restaurants and coffee shops in San Diego. I also explore hiking spots, such as my favorite one, Cuyamaca Peak.
 
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
