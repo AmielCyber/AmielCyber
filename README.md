@@ -2,7 +2,7 @@
 
 **`👨🏽‍💻 Software Developer`**
 
-Hi! My name is Amiel, and I am a Software Developer passionate about developing with ASP.NET Web APIs and Angular. I enjoy working on either stack or both if needed. In my spare time, I enjoy exploring restaurants, coffee shops in San Diego. I also enjoy reading Brandon Anderson's books and hiking in San Diego.
+Hi! My name is Amiel, and I am a Software Developer passionate about developing with ASP.NET Web APIs and Angular. I enjoy working on either stack or both if needed. In my spare time, I enjoy exploring restaurants, coffee shops in San Diego. I also enjoy reading Brandon Sanderson's books and hiking in San Diego.
 
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
