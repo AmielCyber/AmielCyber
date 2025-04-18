@@ -4,7 +4,7 @@
 
 Hi! My name is Amiel. I am a Software Developer passionate about developing full-stack applications. Currently I am building backend service with ASP.NET and C# and building frontend UIs with Angular and TypeScript/JavaScript. I enjoy working on either stack or both if needed. I am also knowledgeable in Java (similar to C#) and Spring (similar to ASP.NET). My next personal backend project will be in Java with Spring Boot.  
 
-In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in San Diego. I also enjoy reading books. The current books I am reading are Mistborn Era II *Shadow of Self* by Brandon Sandersons and *The Fall of Hyperion* by Dan Simmons.
+In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in San Diego. I also enjoy reading books. The current books I am reading are Mistborn Era II *Shadow of Self* by Brandon Sanderson and *The Fall of Hyperion* by Dan Simmons.
 
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
