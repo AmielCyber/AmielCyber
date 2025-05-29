@@ -4,7 +4,7 @@
 
 Hi! My name is Amiel. I am a Software Developer passionate about developing full-stack applications. Currently I am building backend service with ASP.NET and C# and building frontend UIs with Angular and TypeScript/JavaScript. I enjoy working on either stack or both if needed. I am also knowledgeable in Java (similar to C#) and Spring (similar to ASP.NET). My next personal backend project will be in Java with Spring Boot.  
 
-In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in San Diego. I also enjoy reading books. The current books I am reading are Mistborn Era II *Shadow of Self* by Brandon Sanderson and *The Fall of Hyperion* by Dan Simmons.
+In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in San Diego. I also enjoy reading books. The current books I am reading are Mistborn Era II *Shadow of Self* by Brandon Sanderson and *Dune* by Frank Herbert.
 
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
@@ -12,7 +12,6 @@ In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in S
     <img alt="C Sharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
     <img alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
     <img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
     <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -29,15 +28,14 @@ In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in S
     <img alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 </div>
 
-#### 🔎 Familiar With
+#### 🧠 Familiar With
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
     <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     <img alt="Tomcat" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
-    <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
+    <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
     <img alt="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-    <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
