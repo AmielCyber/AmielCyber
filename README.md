@@ -2,9 +2,9 @@
 
 **`👨🏽‍💻 Software Developer`**
 
-Hi! My name is Amiel. I am a Software Developer passionate about developing full-stack applications. Currently I am building backend service with ASP.NET and C# and building frontend UIs with Angular and TypeScript/JavaScript. I enjoy working on either stack or both if needed. I am also knowledgeable in Java (similar to C#) and Spring (similar to ASP.NET). My next personal backend project will be in Java with Spring Boot.  
+Hi! My name is Amiel, a Software Developer passionate about developing full-stack applications. Currently I am building backend service with ASP.NET and C# and building frontend UIs with Angular and TypeScript/JavaScript. I enjoy working on either stack or both if needed. I am also knowledgeable in Java (similar to C#) and Spring (similar to ASP.NET). I am currently attending Chico CSU to obtain a Masters in Computer Science. My program projects consists of C++ and Python programs. With my recent love for C++, I hope to create some repos soon utilizing C++. An interactive CLI tool to optimize C++ object sizes based on the structuring on its property members, and an interactive UI using Qt to simulate a coffee machine (yes I love cofee).
 
-In my spare time, I enjoy exploring restaurants, coffee shops, hiking spots in San Diego. I also enjoy reading books. The current books I am reading are Mistborn Era II *Shadow of Self* by Brandon Sanderson and *Dune* by Frank Herbert.
+In my spare time, I enjoy exploring restaurants, coffee shops, and try recipes. I also enjoy reading books. The current book I am reading is Yumi and the Nightmare Painter by Brandon Sanderson.
 
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
