@@ -41,6 +41,3 @@ In my spare time, I enjoy exploring restaurants, coffee shops, and try recipes. 
     <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amielcyber&layout=compact)
-
