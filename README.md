@@ -6,11 +6,6 @@ Hi! I’m Amiel, an inspiring Software Developer with a background in C++ and fu
 
 I am currently attending Chico CSU to obtain a Master’s in Computer Science. My previous courses have been Network Forensics, Advanced Object-Oriented Programming with C++, Web Applications, Applied Machine Learning, and Applied Computer Vision.
 
-I recently discovered that I love C++. I built an interactive Text User Interface application with C++ that optimizes a C++ structure size based on its property members. I plan to add features like reading files and visualizing memory layout. I am also currently improving my computer vision application with C++ to annotate driving assistant features to a dashboard and making it fast on an embedded system like the NVIDIA Jetson Nano Orin. I enjoy working with C++ for high-performance software. 
-
-In my spare time, I enjoy exploring restaurants, coffee shops, and try recipes to cook. I also enjoy reading books. The current book I am reading is [Memories of Ice
-Book Three of The Malazan Book of the Fallen](https://us.macmillan.com/books/9780765348807/memoriesofice/) by Steven Erikson. Send me message in my email provided here if you want to collaborate on a project or want to talk about books! I also included my LinkedIn profile if you are looking for someone that enjoys C++, Python, C# or coding in general!
-
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
     <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
