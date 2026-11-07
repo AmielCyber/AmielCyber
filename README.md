@@ -2,14 +2,13 @@
 
 **`👨🏽‍💻 Software Developer`**
 
-Hi! I’m Amiel, an inspiring Software Developer with a background in C++ and full-stack applications. The language that I am most proficient in is C++20. My current projects involve building C++ applications with OpenCV and training ML models with PyTorch and displaying the demo of the models in an Angular application. I am also familiar with building backend services with ASP.NET and C#, and frontend UIs with Angular and TypeScript/JavaScript. I’ve also previously worked with React. I enjoy working on either stack or both.
+Hi! I’m Amiel, an inspiring Software Developer with a background in C++ and full-stack applications. The language that I am most proficient in is C++20. My current project involves working with Qt Widgets and C++17. My previous projects involve building C++17 applications with OpenCV and training ML models with PyTorch and displaying the demo of the models in an Angular application. I am also familiar with building backend services with ASP.NET and C#, and frontend UIs with Angular and React with TypeScript/JavaScript. 
 
-I am currently attending Chico CSU to obtain a Master’s in Computer Science. My previous courses have been Network Forensics, Advanced Object-Oriented Programming with C++, Web Applications, Applied Machine Learning, and Applied Computer Vision.
+I am currently attending Chico CSU to obtain a Master’s in Computer Science. My previous courses have been Network Forensics, Advanced Object-Oriented Programming with C++, Web Applications, Applied Machine Learning, Applied Computer Vision, and Algorithms and Computability. I am currently taking Software Design and Maintenance.
 
 ### 🧰 Current Languages and Tools
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
     <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
     <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -20,10 +19,12 @@ I am currently attending Chico CSU to obtain a Master’s in Computer Science. M
     <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
     <img alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+    <img alt="Qt" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
 </div>
 
 #### 🧠 Familiar With
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
+    <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img alt="C Sharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img alt="Dotnet Core" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
     <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
