@@ -1,7 +1,5 @@
 # 🏖️ Amiel Nava
 
-**`👨🏽‍💻 Software Developer`**
-
 Hi! I’m Amiel, an inspiring Software Developer with a background in C++ and full-stack applications. The language that I am most proficient in is C++20. My current project involves working with Qt Widgets and C++17. My previous projects involve building C++17 applications with OpenCV and training ML models with PyTorch and displaying the demo of the models in an Angular application. I am also familiar with building backend services with ASP.NET and C#, and frontend UIs with Angular and React with TypeScript/JavaScript. 
 
 I am currently attending Chico CSU to obtain a Master’s in Computer Science. My previous courses have been Network Forensics, Advanced Object-Oriented Programming with C++, Web Applications, Applied Machine Learning, Applied Computer Vision, and Algorithms and Computability. I am currently taking Software Design and Maintenance.
